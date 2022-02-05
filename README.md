@@ -13,7 +13,7 @@
 :books:Atualmente estudo na Trybe.
 
 
-## About me
+## Sobre mim
 
 Gosto de tudo relacionado a tecnologia e inovação. Estudo Desenvolvimento Web na Trybe, uma escola que não ensina apenas programação, ensina como ser um excelente profissional. Acredito que posso ser a diferença, então prometi seguir tentando e vou tentar até morrer, fazer e ser a diferença.
 
