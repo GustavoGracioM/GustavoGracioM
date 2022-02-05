@@ -8,7 +8,7 @@
 
 :computer:Sou Dev Front-end Jr!
 
-:house_with_garden: Moro no Brasil.
+:house_with_garden: Moro em Caçapava - SP.
 
 :books:Atualmente estudo na Trybe.
 
