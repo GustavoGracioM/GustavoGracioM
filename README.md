@@ -6,11 +6,11 @@
 
  
 
-:computer:Sou Dev Front-end Jr!
+* Sou Dev Front-end Jr!
 
-:house_with_garden: Moro em Caçapava - SP.
+* Moro em Caçapava - SP.
 
-:books:Atualmente estudo na Trybe.
+* Atualmente estudo na Trybe.
 
 
 ## Sobre mim
