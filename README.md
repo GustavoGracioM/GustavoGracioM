@@ -8,9 +8,6 @@
 
 * Atualmente sou estudante de desenvolvimento web na <a href="https://www.betrybe.com/">Trybe</a>!.
 
-
-## Sobre mim
-
 Gosto de tudo relacionado a tecnologia e inovação. Estudo Desenvolvimento Web na Trybe, uma escola que não ensina apenas programação, ensina como ser um excelente profissional. Acredito que posso ser a diferença, então prometi seguir tentando e vou tentar até morrer, fazer e ser a diferença.
 
 <a href="https://www.linkedin.com/in/gustavo-gracio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
