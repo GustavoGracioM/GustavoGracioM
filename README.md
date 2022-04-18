@@ -6,7 +6,7 @@
 
  
 
-* Sou Dev Front-end Jr!
+* Sou Estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>!
 
 * Moro em Caçapava - SP.
 
