@@ -4,13 +4,9 @@
 
 ## Eu sou Gustavo!
 
- 
-
-* Sou Estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>!
-
 * Moro em Caçapava - SP.
 
-* Atualmente estudo na Trybe.
+* Atualmente sou estudante de desenvolvimento web na <a href="https://www.betrybe.com/">Trybe</a>!.
 
 
 ## Sobre mim
