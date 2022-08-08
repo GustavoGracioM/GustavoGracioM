@@ -2,7 +2,7 @@
 
  
 
-## Oi, eu sou o Gustavo!
+## Eu sou o Gustavo!
 
 Gosto de tudo relacionado a tecnologia e inovação. Adoro programar, falar sobre programação e sobre logica de programação. Programar é o que eu faço de melhor e ainda quero melhorar muito. Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>, uma escola que não ensina apenas programação, ensina como ser um excelente profissional. Acredito que posso ser a diferença, então prometi seguir tentando e vou tentar até morrer, fazer e ser a diferença.
 
