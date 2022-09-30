@@ -28,8 +28,8 @@ Gosto de tudo relacionado a tecnologia e inovação. Adoro programar, falar sobr
 
 ----------------------------------------------------------------------------------
 
-<div>
+<div align="center">
   <a href="https://github.com/GustavoGracioM">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoGracioM&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGracioM&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" width="%" src="https://github-readme-stats.vercel.app/api?username=GustavoGracioM&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGracioM&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
