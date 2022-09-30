@@ -1,7 +1,5 @@
 # Bem-vindo!
 
- 
-
 ## Eu sou o Gustavo!
 
 Gosto de tudo relacionado a tecnologia e inovação. Adoro programar, falar sobre programação e sobre logica de programação. Programar é o que eu faço de melhor e ainda quero melhorar muito. Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>, uma escola que não ensina apenas programação, ensina como ser um excelente profissional. Acredito que posso ser a diferença, então prometi seguir tentando e vou tentar até morrer, fazer e ser a diferença.
@@ -26,10 +24,9 @@ Gosto de tudo relacionado a tecnologia e inovação. Adoro programar, falar sobr
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-----------------------------------------------------------------------------------
 
 <div align="center">
   <a href="https://github.com/GustavoGracioM">
-  <img height="180em" width="%" src="https://github-readme-stats.vercel.app/api?username=GustavoGracioM&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=GustavoGracioM&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGracioM&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
