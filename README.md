@@ -28,5 +28,8 @@ Gosto de tudo relacionado a tecnologia e inovação. Adoro programar, falar sobr
 
 ----------------------------------------------------------------------------------
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoGracioM&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/GustavoGracioM">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoGracioM&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGracioM&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
