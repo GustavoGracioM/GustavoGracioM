@@ -2,7 +2,7 @@
 
 ## Eu sou o Gustavo!
 
-Gosto de tudo relacionado a tecnologia e inovação. Adoro programar, falar sobre programação e sobre logica de programação. Programar é o que eu faço de melhor e ainda quero melhorar muito. Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>, uma escola que não ensina apenas programação, ensina como ser um excelente profissional. Acredito que posso ser a diferença, então prometi seguir tentando e vou tentar até morrer, fazer e ser a diferença.
+Gosto de tudo relacionado a tecnologia e inovação. Adoro programar, falar sobre programação e sobre logica de programação. Programar é o que eu faço de melhor e ainda quero melhorar muito. Estudei Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>, uma escola que não ensina apenas programação, ensina como ser um excelente profissional. Acredito que posso ser a diferença, então prometi seguir tentando e vou tentar até morrer, fazer e ser a diferença.
 
 <a href="https://www.linkedin.com/in/gustavo-gracio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:gustavogracio@hotmail.comm"><img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
