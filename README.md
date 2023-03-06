@@ -1,7 +1,7 @@
 # Bem-vindo!
 
 
-## Olá, eu sou o Gustavo tenho 20 anos moro em Caçapava interior de São Paulo.
+### Olá, eu sou o Gustavo tenho 20 anos moro em Caçapava interior de São Paulo.
 
 Sou desenvolvedor back-end, formado pela <a href="https://www.betrybe.com/">Trybe</a> em 2023. Desde sempre gosto tecnologia e sabia que trabalharia com isso. Comecei então meus estudos na <a href="https://etecmachadodeassis.com/desenvolvimento-de-sistemas/">ETEC</a> com o curso de Desenvolvimento de Sistemas e logo após concluir ingressei na Trybe, uma escola que não ensina apenas programação, ensina como ser um bom profissional, trabalhando suas Hard Skills e Soft Skills.
 
