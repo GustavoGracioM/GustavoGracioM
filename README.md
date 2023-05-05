@@ -5,9 +5,7 @@
 
 Sou desenvolvedor back-end, formado pela <a href="https://www.betrybe.com/">Trybe</a> em 2023. Desde sempre gosto tecnologia e sabia que trabalharia com isso. Comecei então meus estudos na <a href="https://etecmachadodeassis.com/desenvolvimento-de-sistemas/">ETEC</a> com o curso de Desenvolvimento de Sistemas e logo após concluir ingressei na Trybe, uma escola que não ensina apenas programação, ensina como ser um bom profissional, trabalhando suas Hard Skills e Soft Skills.
 
-
-
-
+<br>
 
 ## Linguagens e Ferramentas
 <div  align="center">
@@ -42,3 +40,5 @@ Sou desenvolvedor back-end, formado pela <a href="https://www.betrybe.com/">Tryb
   <img height="180em" width="53%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoGracioM&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoGracioM&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+
+  <br>
