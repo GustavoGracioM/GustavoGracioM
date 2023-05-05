@@ -33,9 +33,9 @@ Sou desenvolvedor back-end, formado pela <a href="https://www.betrybe.com/">Tryb
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<div>
+</div>
 
-
+## GitHub Stats 
 
 <div align="center">
   <a href="https://github.com/GustavoGracioM">
