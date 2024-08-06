@@ -1,9 +1,9 @@
 # Bem-vindo!
 
 
-### Olá, eu sou o Gustavo, tenho 21 anos e moro em Caçapava, no interior de São Paulo. Desde cedo, desenvolvi um grande interesse por tecnologia e sua capacidade de criar soluções inovadoras.
+### Olá, eu sou o Gustavo, tenho 21 anos e moro em Caçapava, no interior de São Paulo.
 
-Em 2023, tive a oportunidade de me formar em Desenvolvimento Web pela <a href="https://www.betrybe.com/">Trybe</a>, uma experiência que foi muito além de aprender a programar. Na <a href="https://www.betrybe.com/">Trybe</a>, pude aprimorar não apenas minhas habilidades técnicas em back-end, mas também desenvolver habilidades comportamentais essenciais para minha carreira, como trabalho em equipe, comunicação eficaz e resolução de problemas.
+Desde cedo, desenvolvi um grande interesse por tecnologia e sua capacidade de criar soluções inovadoras. Em 2023, tive a oportunidade de me formar em Desenvolvimento Web pela <a href="https://www.betrybe.com/">Trybe</a>, uma experiência que foi muito além de aprender a programar. Na <a href="https://www.betrybe.com/">Trybe</a>, pude aprimorar não apenas minhas habilidades técnicas em back-end, mas também desenvolver habilidades comportamentais essenciais para minha carreira, como trabalho em equipe, comunicação eficaz e resolução de problemas.
 
 Atualmente, estou em busca de oportunidades para aplicar meus conhecimentos e continuar aprendendo e crescendo como desenvolvedor. Minhas áreas de interesse incluem desenvolvimento de software, arquitetura de sistemas e tecnologias emergentes. Estou animado para contribuir com soluções criativas e de qualidade para desafios no campo da tecnologia.
 
